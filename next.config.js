@@ -5,7 +5,7 @@ const nextConfig = {
     ignoreDuringBuilds: true,
   },
   images: { unoptimized: true },
-  basePath: '/rockstart_gaming',
+  // basePath: '/rockstart_gaming',
 };
 
 module.exports = nextConfig;
